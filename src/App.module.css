@@ -1,0 +1,8 @@
+.homeBackground {
+    background-color: black;
+    background-size: contain; /* Prueba con 'contain' */
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 200vh;
+}
+

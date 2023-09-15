@@ -1,0 +1,25 @@
+.container {
+    position: absolute;
+    top: 5%;
+    right: 25%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .select1, .select2 {
+    background-color:  rgb(54, 247, 199); 
+    color:rgb(8, 1, 15);
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease-in-out;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-left: 10px; 
+  }
+
+  .select1:hover, .select2:hover {
+    background-color: rgb(33, 193, 156); 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
+  }
