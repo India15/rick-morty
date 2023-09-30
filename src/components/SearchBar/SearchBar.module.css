@@ -45,3 +45,12 @@
   background-color: rgba(0, 0, 0, 0.3); 
 }
 
+
+.button:hover {
+  
+  transform: scale(1.1); /* Aumenta el tamaño en un 10% */
+  transition: transform 0.3s ease; /* Agrega una transición suave de 0.3 segundos */
+  }
+  
+
+

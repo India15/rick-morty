@@ -7,18 +7,23 @@
   .title{
     font-family: "Shlop Normal", sans-serif;
     color: rgba(167, 253, 42, 1);
-    font-size: 23px;
+    font-size: 25px;
   }
 
   .profileImage {
     width: 200px;
   }
+  .profileImage:hover {
+
+      transform: rotate(360deg); /* Realiza una rotación de 360 grados */
+      transition: transform 1s ease; /* Agrega una transición suave de 1 segundo */
+    }
   
   
   .p {
     margin-top: 20px; 
     font-family:  sans-serif; 
-    font-size: 15px; 
+    font-size: 18px; 
     margin: 10px 0; 
     
   }

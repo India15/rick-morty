@@ -29,13 +29,9 @@
     height: auto;
     }
     
-    
-    
- 
- 
-    
+
     .image {
-        width: 190px;
+        width: 280px;
         height: auto;
         position: absolute;
         animation: spaceshipMove 15s linear infinite;

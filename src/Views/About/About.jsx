@@ -8,7 +8,7 @@ function About() {
         <h1>¿Quién soy?</h1>
       </div>
       <img
-        src={require('../../components/Images/f.png')}
+        src={require('../../components/Images/pickled.png')}
         alt="Imagen de perfil"
         className={styles.profileImage}
       />
